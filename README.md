@@ -1,4 +1,4 @@
-# SonicSentinel
+# BluetoothSpeakerGuard
 **Keep Your Bluetooth Speaker Always Connected**
 
 ---
@@ -17,5 +17,3 @@
 - 📴 **無干擾**：播放的是無聲檔，不影響正常音樂或影片播放  
 
 ---
-
-## 📂 專案結構
