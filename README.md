@@ -4,7 +4,7 @@
 ---
 
 ## 📖 專案簡介
-**SonicSentinel** 是一款使用 [AutoIt](https://www.autoitscript.com/site/) 撰寫的輕量級工具。  
+**BluetoothSpeakerGuard** 是一款使用 [AutoIt](https://www.autoitscript.com/site/) 撰寫的輕量級工具。  
 它每隔 **15 分鐘** 會自動播放一次 **silent.wav**（無聲音訊檔案），  
 藉此讓電腦持續向藍牙喇叭發送音訊訊號，防止因長時間無音訊而被系統斷線（節能模式）。
 
